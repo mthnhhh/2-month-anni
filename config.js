@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: 'Em ghét anhh',
     question:'Tại sao nhỉ hmm',
     btnReply: 'Ấn để gửi',
-    reply: 'Anh đáng iu và có cái bụng rất rất nhiều mỡ luôn ýyyyyyyyyyyyyyyyyyyyyyyyyyyy',
+    reply: 'Anh đáng iu và có cái bụng rất rất nhiều mỡ luôn ýyyyyyyyyyyyyyyyyyyyyyyyyyy',
     mess: 'Thế á =))) bất ngờ ghê luôn ý',
     messDesc: 'Vậy thì ấn vào đây xong xem stories điii',
     btnAccept: 'Ote',
