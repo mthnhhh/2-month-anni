@@ -11,8 +11,8 @@ const CONFIG = {
     question:'Tại sao nhỉ hmm',
     btnReply: 'Ấn để gửi',
     reply: 'Anh đáng iu và có cái bụng rất rất nhiều mỡ luôn ýyyyyyyyyyyyyyyyyyyyyyyyyyyy',
-    mess: 'Anh cũng iu em lắm lắm lắm',
-    messDesc: 'Hãy nhìn qua 1 chút về những stories nhớ',
+    mess: 'Thế á =))) bất ngờ ghê luôn ý',
+    messDesc: 'Vậy thì ấn vào đây xong xem stories điii',
     btnAccept: 'Ote',
     messLink: 'https://www.instagram.com/duskndawn._/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
