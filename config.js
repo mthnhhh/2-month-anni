@@ -8,10 +8,10 @@ const CONFIG = {
     desc: 'Em có ghét anh khum :((',
     btnYes: 'Không, em iuu anh lắm',
     btnNo: 'Em ghét anhh',
-    question:'Tại sao nhỉ hmmm',
+    question:'Tại sao nhỉ hmm',
     btnReply: 'Ấn để gửi',
-    reply: 'Anh đáng iu và có cái bụng rất rất nhiều mỡ luôn ýyyyyyyyy',
-    mess: 'Thế á =))) anh cũng iu em nhiều lắm lunn <3',
+    reply: 'Anh đáng iu và có cái bụng rất rất nhiều mỡ luôn ýyyyyyyyyyyyyyyyyyyyyyyyyyyy',
+    mess: 'Anh cũng iu em lắm lắm lắm',
     messDesc: 'Hãy nhìn qua 1 chút về những stories nhớ',
     btnAccept: 'Ote',
     messLink: 'https://www.instagram.com/duskndawn._/' //link mess của các bạn. VD: https://m.me/nam.nodemy
