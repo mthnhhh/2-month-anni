@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc: 'Vậy sao không nhìn qua 1 chút về những stories nhỉ',
+    btnAccept: 'Ote',
     messLink: 'https://www.instagram.com/duskndawn._/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
