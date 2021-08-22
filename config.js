@@ -2,8 +2,7 @@ const CONFIG = {
     introTitle: 'Trân trọng kính gửi Hà Anh',
     introDesc: `Đây là 1 đống linh tinh nhảm
      nhí mà anh đã ăn cắp xong
-      tự biến nó thành của mình.
-      Thì tự nhiên chả biết anh bị làm sao ý xong ngồi làm cái này cho em.`,
+      tự biến nó thành của mình. Thì tự nhiên chả biết anh bị làm sao ý xong ngồi làm cái này cho em.`,
     btnIntro: 'Vângg',
     title: 'Một câu hỏi mà thỉnh thoảng anh hay thắc mắc với bản thân',
     desc: 'Em có ghét anh khum :((',
